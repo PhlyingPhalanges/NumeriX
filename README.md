@@ -1,5 +1,4 @@
-# NumeriX
-Numerical Analysis Toolkit
+# NumeriX: Numerical Analysis Toolkit
 
 ## Acknowledgments
 
